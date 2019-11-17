@@ -15,10 +15,10 @@
     - 기간 : 2018.7-2019.7
 
 * [Deloitte Consulting](https://www2.deloitte.com/kr/ko/services/consulting-deloitte.html)
-- Human Capital Group
-- Research Assistant
-- 기간 : 2018.2-2018.4
-    
+    - Human Capital Group
+    - Research Assistant
+    - 기간 : 2018.2-2018.4
+        
 # 학력
 * 연세대학교 정보산업공학과 졸업 (2013.3-2018.2)
 
