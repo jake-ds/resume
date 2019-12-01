@@ -10,7 +10,7 @@
     - Data Scientist
     - 기간 : 2019.7-
     - 프로젝트
-        - OJT 수행 중 (Vision, NLP)
+        - OJT 수행 중 (Vision, NLP, Reinforcement Learning)
     
 * [LG CNS](https://www.lgcns.co.kr/)
     - 통신/서비스 AI빅데이터팀
@@ -25,10 +25,12 @@
     - Human Capital Group
     - Research Assistant
     - 기간 : 2018.2-2018.4
-    - 해양수산부 정책타당성 평가 프로젝트
+    - 프로젝트
+        - 해양수산부 정책타당성 평가
     
 # 학력
 * 연세대학교 정보산업공학과 졸업 (2013.3-2018.2)
+    - 통계, 데이터마이닝, 금융공학, 데이터베이스 수강 
 
 # 활동
 * [AI College](http://aic.yangjaehub.com/), 모두의연구소 (2019.9-)
