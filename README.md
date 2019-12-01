@@ -34,4 +34,6 @@
 
 # 활동
 * [AI College](http://aic.yangjaehub.com/), 모두의연구소 (2019.9-)
+    - Financial Portfolio Optimization Lab
 * [YbigTa](http://ybigta.com/), 연세대학교 (2015.12-2016.11)
+    - 8th, Data Design Team
