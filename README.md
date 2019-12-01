@@ -7,18 +7,26 @@
 # 경력
 * [삼성생명주식회사](http://www.samsunglife.com/)
     - 디지털추진팀 DA Lab
-    - DeepLearning Engineer
+    - Data Scientist
     - 기간 : 2019.7-
+    - 프로젝트
+        - OJT 수행 중 (Vision, NLP)
+    
 * [LG CNS](https://www.lgcns.co.kr/)
     - 통신/서비스 AI빅데이터팀
     - Data Scientist
     - 기간 : 2018.7-2019.7
+    - 프로젝트
+        - 프리미엄 단말 구매자 예측
+        - 데이터 파이프라인 모니터링 프로그램 구축
+        - 데이터표준관리(DA)
 
 * [Deloitte Consulting](https://www2.deloitte.com/kr/ko/services/consulting-deloitte.html)
     - Human Capital Group
     - Research Assistant
     - 기간 : 2018.2-2018.4
-        
+    - 해양수산부 정책타당성 평가 프로젝트
+    
 # 학력
 * 연세대학교 정보산업공학과 졸업 (2013.3-2018.2)
 
