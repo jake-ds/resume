@@ -10,7 +10,8 @@
     - Data Scientist
     - 기간 : 2019.7-
     - 프로젝트
-        - OJT 수행 중 (Vision, NLP, Reinforcement Learning)
+        - OJT (Vision, NLP, Reinforcement Learning)
+        - voc 분류 모델링
     
 * [LG CNS](https://www.lgcns.co.kr/)
     - 통신/서비스 AI빅데이터팀
@@ -37,3 +38,5 @@
     - Financial Portfolio Optimization Lab
 * [YbigTa](http://ybigta.com/), 연세대학교 (2015.12-2016.11)
     - 8th, Data Design Team
+* 강화학습스터디, 스터디파이 (2020.05-)
+    - <단단한 강화학습>-리처드 서튼, 앤드류 바르토
