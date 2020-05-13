@@ -11,7 +11,7 @@
     - 기간 : 2019.7-
     - 프로젝트
         - OJT (Vision, NLP, Reinforcement Learning)
-        - voc 분류 모델링
+        - VOC 분류 모델링(Text analysis)
     
 * [LG CNS](https://www.lgcns.co.kr/)
     - 통신/서비스 AI빅데이터팀
