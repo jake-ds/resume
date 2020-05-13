@@ -40,3 +40,7 @@
     - 8th, Data Design Team
 * 강화학습스터디, 스터디파이 (2020.05-)
     - <단단한 강화학습>-리처드 서튼, 앤드류 바르토
+* 컨퍼런스 참가
+    - 2019 데이터야놀자, moducon, SKT AI.X
+    - 2018 hello kaggler
+    
