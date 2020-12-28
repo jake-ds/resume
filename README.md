@@ -34,6 +34,11 @@
 * 연세대학교 정보산업공학과 졸업 (2013.3-2018.2)
     - 통계, 데이터마이닝, 금융공학, 데이터베이스 수강 
 
+# 컴피티션
+* [DACON](http:https://dacon.io/competitions/official/235671/overview/) 한국어 문서 추출 요약 AI 경진대회
+    - Public 7위, Private 6위
+    - KoBERT + Order Weight Modeling
+
 # 활동
 * [AI College](http://aic.yangjaehub.com/), 모두의연구소 (2019.9-)
     - Financial Portfolio Optimization Lab
