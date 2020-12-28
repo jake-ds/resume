@@ -12,6 +12,7 @@
     - 프로젝트
         - OJT (Vision, NLP, Reinforcement Learning)
         - VOC 분류 모델링(Text analysis)
+        - 음성인식/음성합성 R&D
     
 * [LG CNS](https://www.lgcns.co.kr/)
     - 통신/서비스 AI빅데이터팀
