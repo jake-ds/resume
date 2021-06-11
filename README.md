@@ -5,10 +5,17 @@
 * Github : [github.com/jake-ds](https://github.com/jake-ds)
 
 # 경력
+* [뱅크샐러드](http://www.samsunglife.com/)
+    - Data Foundation - Data R&D
+    - MachineLearning Engineer 
+    - 기간 : 2021.4-
+    - 프로젝트
+        - 가계부 내역분류 개선 
+
 * [삼성생명주식회사](http://www.samsunglife.com/)
     - 디지털추진팀 DA Lab
     - Data Scientist
-    - 기간 : 2019.7-
+    - 기간 : 2019.7-2021.03
     - 프로젝트
         - OJT (Vision, NLP, Reinforcement Learning)
         - VOC 분류 모델링(Text analysis)
