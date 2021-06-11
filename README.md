@@ -5,7 +5,7 @@
 * Github : [github.com/jake-ds](https://github.com/jake-ds)
 
 # 경력
-* [뱅크샐러드](http://www.samsunglife.com/)
+* [뱅크샐러드](https://www.banksalad.com/)
     - Data Foundation - Data R&D
     - MachineLearning Engineer 
     - 기간 : 2021.4-
